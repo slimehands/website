@@ -1,0 +1,21 @@
+|  |  |
+|--|--|
+|Food|Jevan|
+|Drink(n)|  |
+|Eat(formal, a meal)|Jyo|
+|Eat(informal, snack or breakfast)|Kaa|
+|Drink(v)|Pie|
+### dish names
+#### vegetable names
+|  |  |
+|--|--|
+|  |  |
+|  |  |
+### drink names
+### tastes
+|  |  |
+|--|--|
+|delicious|ruchik|
+|sweet|goad|
+|sour|ambot|
+|spicy|tiik|

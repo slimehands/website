@@ -1,0 +1,21 @@
+|  |  |
+|--|--|
+|school|iskalar|
+|answer|zaap|
+|learn|shik|
+|who knows the answer?|Konak zaap kalith asa?|
+|I have the answer|muje kade zaap asa|
+|I forgot what i was going to say|Haau kithe sangunk vetha te, wisrala|
+|I understood| Maka samzalle/Maka Kulle|
+|Now I am studying/Now I'm learning|Aaz Haau shikta|
+|I was studying .../|I learned that ...|Haau ... shiklo|
+|I am finished studying|Haau shikoun zale|
+|I will have finished studying|Haau shikoun kabar zathele|
+|I don't know|Maka kala na|
+|I didn't know|Maka guthu na|
+|I didn't know, but i learned today|Maka kalonk natle, aaz haau xiklo|
+|I discovered that ...|have ... sudun kadle|
+|I figured out that||
+|I taught||
+|I forgot that...||
+|I remember that||

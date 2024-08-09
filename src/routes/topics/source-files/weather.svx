@@ -1,0 +1,17 @@
+|  |  |
+|--|--|
+|weather|hawo|
+|wot|sunlight|
+|The sun is out today! |Aaz wot asa!|
+|It has been raining for the past few days|patlea todea disani paus vothith asa|
+|It's very cold outside|Bair mustu tundh asa|
+|There's a nice breeze outside||
+|It's nice weather||
+|Yesterday it was too hot, but today is better||
+|It's a bit humid outside||
+|I wish it was warmer||
+|It was hailing last night||
+|We just live in a snowy place||
+|it rarely rains in the desert||
+|The rain started to freeze last night||
+|She said there will be strong winds tomorrow||
