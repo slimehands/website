@@ -26,7 +26,7 @@
 	<nav>
 		<ul>
 			<li>
-				<a href="/stories">stories</a>
+				<a href="/topics/">see the dictionary</a>
 			</li>
             <!--
 			<li>

@@ -12,8 +12,3 @@
 	<a href={slug}>link</a>
 </article>
 
-<style>
-	tr {
-		border-right: medium black;
-	}
-</style>

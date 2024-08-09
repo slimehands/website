@@ -4,3 +4,11 @@ body {
 h1 {
     font-family: 'Fugaz One';
 }
+table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+  }
+  

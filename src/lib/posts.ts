@@ -1,7 +1,7 @@
 import matter from 'gray-matter'
 import strip from 'strip-markdown-oneline'
 export function files(){
-    const paths = import.meta.glob('/src/routes/stories/story-files/*.svx', { query: '?raw', import: 'default', eager: true })
+    const paths = import.meta.glob('/src/routes/topics/source-files/*.svx', { query: '?raw', import: 'default', eager: true })
     const posts = Object.entries(paths)
         .map(([path, content]) => {
             const frontmatter = matter(content)
@@ -10,7 +10,7 @@ export function files(){
             }
             return {
                 title: frontmatter.data.title,
-                slug: path.slice(11, -4).replace("/story-files", ""),
+                slug: path.slice(11, -4).replace("/source-files", "").replace(".svx", ""),
                 level: frontmatter.data.level,
                 content: strip(content),
                 tags: frontmatter.data.tags
